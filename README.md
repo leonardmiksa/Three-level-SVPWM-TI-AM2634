@@ -26,6 +26,7 @@ The second part of this two-phase project involved implementing a different meth
 Unlike the previous approach, this method directly determines switching sequences based on the reference vector position, while taking into account various practical constraints, including:
 - Minimal on-time enforcement to ensure safe switching
 - Neutral point voltage balancing to stabilize capacitor voltages
+
 NOTE: this work was done with postdoc. Nikola Turk to whom I owe gratitude for mentorship and guidance. I contributed to the laboratory implementation and testing phases, although I did not continue with hands-on hardware verification.
 
 Key features:
