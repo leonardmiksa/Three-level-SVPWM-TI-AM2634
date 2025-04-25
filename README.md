@@ -18,6 +18,8 @@ Tools used:
 - AM263x real-time MCU (Sitara family)
 - Oscilloscope for waveform validation
 
+> 📎 Full project report (in Croatian) is available in the provided PDF file.
+
 Author:
 Leonard Mikša
 MSc Electrical Engineering student
