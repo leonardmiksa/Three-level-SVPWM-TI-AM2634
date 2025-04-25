@@ -49,6 +49,6 @@ Tools used:
 
 
 Author:
-Leonard Mikša
-MSc Electrical Engineering student
+Leonard Mikša,
+MSc Electrical Engineering student,
 Email: leonardmiksa@gmail.com
