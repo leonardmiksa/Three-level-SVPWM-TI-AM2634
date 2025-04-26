@@ -52,4 +52,4 @@ Tools used:
 Author:
 Leonard Mikša,
 MSc Electrical Engineering student,
-Email: leonardmiksa@gmail.com
+Email: [leonardmiksa@gmail.com](mailto:leonardmiksa@gmail.com)
