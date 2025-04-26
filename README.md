@@ -1,4 +1,4 @@
-# Three-level-SVPWM-TI-AM2634
+# Three-level SVPWM implemented on TI AM2634
 
 This project implements a real-time control algorithm for a three-level neutral-point clamped inverter using vector-based PWM.
 The modulation is executed on the TI AM2634 microcontroller using TI's Code Composer Studio and SysConfig tools.
