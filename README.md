@@ -18,7 +18,7 @@ Tools used:
 - AM263x real-time MCU (Sitara family)
 - Oscilloscope for waveform validation
 
-[> 📎 Full project report (in Croatian) is available in the provided PDF file.](Three-Level-SVPWM-Leonard_Miksa.pdf)
+[> 📎 Full project report (in Croatian) is available in the provided PDF file.](Three-Level-SVPWM-Leonard-Miksa.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ Tools used:
 - AM263x real-time MCU (Sitara family)
 - Oscilloscope for waveform validation
 
-[> 📎 Full project report (in Croatian) is available in the provided PDF file.](Three-Level-SVPWM-Leonard_Miksa2.pdf)
+[> 📎 Full project report (in Croatian) is available in the provided PDF file.](Three-Level-SVPWM-Leonard-Miksa2.pdf)
 
 
 Author:
